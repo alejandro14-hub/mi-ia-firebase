@@ -1,0 +1,8 @@
+# Ignorar archivos sensibles y temporales
+.env/
+*.key.txt
+serviceAccountkey.json/serviceAccountKey
+*.json.txt
+__pycache__/
+*.pyc
+*.log
