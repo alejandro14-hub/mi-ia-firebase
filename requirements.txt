@@ -1,0 +1,6 @@
+flask
+flask-cors
+firebase-admin
+openai
+python-dotenv
+gunicorn
